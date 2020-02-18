@@ -11,4 +11,4 @@ Each transaction requires a name and an amount. Finally select whether this amou
 
 ## screenshots
 
-![image](https://user-images.githubusercontent.com/24512590/74757462-443ed680-5233-11ea-9016-4378ab48b045.png)
+![image](https://user-images.githubusercontent.com/24512590/74757947-ebbc0900-5233-11ea-9d4e-c1641fb8f600.png)
